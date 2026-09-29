@@ -78,7 +78,7 @@ Name: Rachel Wanjohi
 Email: wanjohirachel7@gmail.com
 Phone: +254 112157438
 GitHub:https://github.com/Bobo635-hub
-LinkedIn: https:www.linkedin.com/in/rachel-wambui-502aa43a0
+LinkedIn:https://www.linkedin.com/in/rachel-wambui-502aa43a0
 
 Author
 
