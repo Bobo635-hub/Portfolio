@@ -238,3 +238,26 @@ padding: 1rem;
 }
 
 }
+.contact-info {
+    margin: 2rem auto;
+    max-width: 600px;
+    background-color: white;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.contact-info p {
+    margin: 0.8rem 0;
+}
+
+.contact-info a {
+    color: #1e3a5f;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.contact-info a:hover {
+    color: #b8860b;
+    text-decoration: underline;
+}
